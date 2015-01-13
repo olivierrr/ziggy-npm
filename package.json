@@ -1,0 +1,25 @@
+{
+  "name": "ziggy-npm",
+  "version": "1.0.0",
+  "description": "Query the npmjs.org registry from irc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/olivierrr/ziggy-npm.git"
+  },
+  "keywords": [
+    "ziggy",
+    "plugin",
+    "npm",
+    "npmjs"
+  ],
+  "author": "olivierrr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/olivierrr/ziggy-npm/issues"
+  },
+  "homepage": "https://github.com/olivierrr/ziggy-npm"
+}
