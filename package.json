@@ -1,6 +1,6 @@
 {
   "name": "ziggy-npm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Query the npmjs.org registry from irc",
   "main": "index.js",
   "scripts": {
@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/olivierrr/ziggy-npm/issues"
   },
-  "homepage": "https://github.com/olivierrr/ziggy-npm"
+  "homepage": "https://github.com/olivierrr/ziggy-npm",
+  "dependencies": {
+    "moment": "^2.9.0"
+  }
 }
